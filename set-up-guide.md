@@ -4,7 +4,7 @@
 
 ### Terminal 1: Bcoin
 
-There are some set up instructions for Bcoin at https://github.com/bcoin-org/bcoin. Complete these instructions first.
+There are some set up instructions for setting up Bcoin at https://github.com/bcoin-org/bcoin. Complete these instructions first.
 
 Then run the following
 
