@@ -2,16 +2,15 @@
 
 7 terminals are required in total so open 7 Terminals (Download iTerm to be able to easily navigate between panes)
 
-Terminal 1: Bcoin
-There are some set up instructions for Bcoin at https://github.com/bcoin-org/bcin. Complete those instructions and then run the following
+### Terminal 1: Bcoin
 
+There are some set up instructions for Bcoin at https://github.com/bcoin-org/bcoin. Complete these instructions first.
 
-After following the instructions at https://github.com/bcoin-org/bcoin , run the following:
+Then run the following
+
 ```~/proj/bcoin/bcoin$ bin/bcoin --network simnet --nodes 10.7.64.53,redsquad.dev.purse.io --host '::' --public-host 172.17.0.1```
 
-Replace 172.17.0.1 with your Local IP address on the Wireless LAN. This can be be found by.....
-
-REPLACE THE VALUE 172.17.0.1 WITH YOUR OWN LOCAL IP ADDRESS ON OUR WIRELESS LAN.
+Replace 172.17.0.1 with your Local IP address on the Wireless LAN. This can be be found in Mac by going to System Preferences -> Network and the IP address should be under Status: Connected
 
 #### Terminal 2: BTCD ####
 
