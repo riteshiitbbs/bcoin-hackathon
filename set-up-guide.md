@@ -6,6 +6,15 @@
 
 There are some set up instructions for setting up Bcoin at https://github.com/bcoin-org/bcoin. Complete these instructions first.
 
+```
+$ git clone git://github.com/bcoin-org/bcoin.git
+$ cd bcoin
+$ npm install
+$ bcoin
+```
+
+See the [Beginner's Guide][guide] for more in-depth installation instructions.
+
 Then run the following
 
 ```~/proj/bcoin/bcoin$ bin/bcoin --network simnet --nodes 10.7.64.53,redsquad.dev.purse.io --host '::' --public-host 172.17.0.1```
