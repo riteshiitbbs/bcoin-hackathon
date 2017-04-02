@@ -22,6 +22,8 @@ Then run the following
 
 Replace 172.17.0.1 with your Local IP address on the Wireless LAN. This can be be found in Mac by going to System Preferences -> Network and the IP address should be under Status: Connected
 
+(Alternatively instead of the Wireless LAN, put whatever public facing IP address is specific to that host)
+
 #### Terminal 2: BTCD ####
 
 After following teh instructions here: https://github.com/lightningnetwork/lnd/blob/master/docs/INSTALL.md
