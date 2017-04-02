@@ -1,6 +1,6 @@
 # Set up Instructions
 
-7 terminals are required in total so open 7 Terminals (Download iTerm to be able to easily navigate between panes)
+7 terminals are required in total so open 7 Terminals (Download iTerm to be able to easily navigate between panes) https://www.iterm2.com
 
 ### Terminal 1: Bcoin
 
