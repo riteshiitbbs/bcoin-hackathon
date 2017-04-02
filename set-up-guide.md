@@ -10,8 +10,9 @@ There are some set up instructions for setting up Bcoin at https://github.com/bc
 $ git clone git://github.com/bcoin-org/bcoin.git
 $ cd bcoin
 $ npm install
-$ bin/bcoin
+$ bcoin
 ```
+bcoin should be installed globally so you should be able to run ```bcoin```. If this command is not found, run ```/path/to/bcoin/bin/bcoin``` substituting the path to bcoin into ```/path/to```
 
 See the [Beginner's Guide][guide] for more in-depth installation instructions.
 
