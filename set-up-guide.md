@@ -18,7 +18,7 @@ See https://github.com/bcoin-org/bcoin/wiki/Beginner's-Guide for more in-depth i
 
 Then run the following
 
-```~/proj/bcoin/bcoin$ bin/bcoin --network simnet --nodes 10.7.64.53,redsquad.dev.purse.io --host '::' --public-host 172.17.0.1```
+```$ bin/bcoin --network simnet --nodes 10.7.64.53,redsquad.dev.purse.io --host '::' --public-host 172.17.0.1```
 
 Replace 172.17.0.1 with your Local IP address on the Wireless LAN. This can be be found in Mac by going to System Preferences -> Network and the IP address should be under Status: Connected
 
