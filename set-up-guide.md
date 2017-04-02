@@ -14,7 +14,7 @@ $ bcoin
 ```
 bcoin should be installed globally so you should be able to run ```bcoin```. If this command is not found, run ```/path/to/bcoin/bin/bcoin``` substituting the path to bcoin into ```/path/to```
 
-See the [Beginner's Guide][guide] for more in-depth installation instructions.
+See the [Beginner's Guide][https://github.com/bcoin-org/bcoin/wiki/Beginner's-Guide] for more in-depth installation instructions.
 
 Then run the following
 
