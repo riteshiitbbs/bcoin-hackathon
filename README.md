@@ -27,3 +27,9 @@ BCoin boilerplate for a react.js app here: https://github.com/RiskBazaar/bcoin-b
 ### Slides from Bcoin hackathon - Monetizing Full Nodes
 
 https://www.slideshare.net/michaelfolkson/bcoin-hackathon-slides
+
+### Andreas Antonopoulos' Q&A on Lightning network
+
+https://www.youtube.com/watch?v=vPnO9ExJ50A
+
+https://www.youtube.com/watch?v=dlJG4OHdJzs
