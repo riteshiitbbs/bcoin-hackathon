@@ -28,6 +28,10 @@ BCoin boilerplate for a react.js app here: https://github.com/RiskBazaar/bcoin-b
 
 https://www.slideshare.net/michaelfolkson/bcoin-hackathon-slides
 
+### Andreas Antonopoulos talk on Lightning
+
+https://www.youtube.com/watch?v=gF_ZQ_eijPs
+
 ### Andreas Antonopoulos' Q&A on Lightning network
 
 https://www.youtube.com/watch?v=vPnO9ExJ50A
